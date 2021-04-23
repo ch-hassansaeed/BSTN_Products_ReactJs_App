@@ -1,11 +1,11 @@
 # BSTN_Products_ReactJs_App
 BSTN_Products_ReactJs_App Using Using Pagination,LoadMore and search in React JS
 
-## Demo Snapshot List Page Pagination
+## Demo Snapshot List Page using Pagination
 
 ![alt text](https://github.com/ch-hassansaeed/BSTN_Products_ReactJs_App/blob/main/Screenshot_1.png)
 
-## Demo Snapshot List Page Load More All Item
+## Demo Snapshot List Page using Load More All Items
 
 ![alt text](https://github.com/ch-hassansaeed/BSTN_Products_ReactJs_App/blob/main/Screenshot_2.png)
 
