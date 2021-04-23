@@ -15,14 +15,20 @@ BSTN_Products_ReactJs_App Using Using Pagination,LoadMore and search in React JS
 
 
 you just need to run these two command for install packages 
+```
 npm install
+```
 after that run using 
+```
 npm start
+```
 
 if any package missing error then ensure these packages should installed using these commands
+```
 npm install @material-ui/icons
 npm install @material-ui/core
 npm install react-bootstrap bootstrap
+```
 
 
 
