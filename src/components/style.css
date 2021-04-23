@@ -1,0 +1,62 @@
+.pageNumbers {
+  list-style: none;
+  display: flex;
+}
+
+.pageNumbers li {
+  padding: 10px;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+.pageNumbers li.active {
+  background-color: white;
+  color: black;
+}
+
+.pageNumbers li button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.pageNumbers li button:hover {
+  background-color: white;
+  color: black;
+}
+.pageNumbers li button:focus {
+  outline: none;
+}
+
+.loadmore {
+  padding: 1rem;
+  background-color: transparent;
+
+  color: white;
+  font-size: 1.2rem;
+  border: 1px solid white;
+  cursor: pointer;
+}
+.productBox
+{
+color: #007bdd;
+font-weight: bold;
+float: left;
+margin: 10px;
+height: 420px;
+}
+#productBoxCard
+{
+width: 23rem;
+height: 420px;
+}
+.search-form-row
+{
+  box-sizing: inherit;
+}
+#serach-textbox
+{
+  width: 500px;
+  box-sizing: inherit;
+}

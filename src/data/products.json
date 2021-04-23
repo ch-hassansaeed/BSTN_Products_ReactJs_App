@@ -1,0 +1,1180 @@
+{
+    "data": {
+        "products": {
+            "total_count": 13,
+            "items": [
+                {
+                    "id": 743,
+                    "name": "Caesar Warm-Up Pant",
+                    "sku": "MP01",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp01-gray_main_1.jpg",
+                        "label": "Caesar Warm-Up Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 35,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 821,
+                    "name": "Thorpe Track Pant",
+                    "sku": "MP07",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp07-blue_main_1.jpg",
+                        "label": "Thorpe Track Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 68,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 795,
+                    "name": "Kratos Gym Pant",
+                    "sku": "MP05",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp05-blue_main_1.jpg",
+                        "label": "Kratos Gym Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 57,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 782,
+                    "name": "Supernova Sport Pant",
+                    "sku": "MP04",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp04-gray_main_1.jpg",
+                        "label": "Supernova Sport Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 45,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 769,
+                    "name": "Geo Insulated Jogging Pant",
+                    "sku": "MP03",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp03-black_main_1.jpg",
+                        "label": "Geo Insulated Jogging Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 51,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 756,
+                    "name": "Viktor LumaTech&trade; Pant",
+                    "sku": "MP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp02-gray_main_2.jpg",
+                        "label": "Viktor LumaTech&trade; Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 46,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 873,
+                    "name": "Aether Gym Pant ",
+                    "sku": "MP11",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp11-brown_main_1.jpg",
+                        "label": "Aether Gym Pant "
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 74,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 847,
+                    "name": "Livingston All-Purpose Tight",
+                    "sku": "MP09",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/m/p/mp09-blue_main_1.jpg",
+                        "label": "Livingston All-Purpose Tight"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 75,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1881,
+                    "name": "Carina Basic Capri",
+                    "sku": "WP09",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp09-black_main_1.jpg",
+                        "label": "Carina Basic Capri"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 51,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1846,
+                    "name": "Cora Parachute Pant",
+                    "sku": "WP04",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp04-blue_main_1.jpg",
+                        "label": "Cora Parachute Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 75,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1839,
+                    "name": "Ida Workout Parachute Pant",
+                    "sku": "WP03",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp03-blue_main_1.jpg",
+                        "label": "Ida Workout Parachute Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 48,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },   
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },  
+                             {
+                    "id": 1832,
+                    "name": "Emma Leggings",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },                {
+                    "id": 1832,
+                    "name": "Emma Leggings 34",
+                    "sku": "WP02",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp02-blue_main_1.jpg",
+                        "label": "Emma Leggings"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 42,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1825,
+                    "name": "Karmen Yoga Pant 35",
+                    "sku": "WP01",
+                    "image": {
+                        "url": "https://coding-challenge.bstn.com/media/catalog/product/cache/37b6b2917992e1efc322aba7d4d53570/w/p/wp01-gray_main_1.jpg",
+                        "label": "Karmen Yoga Pant"
+                    },
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "value": 39,
+                                "currency": "EUR"
+                            }
+                        }
+                    }
+                }
+            ],
+            "page_info": {
+                "page_size": 996,
+                "current_page": 1
+            }
+        }
+    }
+}
